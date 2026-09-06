@@ -3,6 +3,25 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
+# GHI CHÚ: Gia_Thue_Trieu chỉ là tiền phòng (cập nhật theo mặt bằng giá thực tế
+# quanh FPTU, có phân biệt Loai_Phong: chung cư mini/studio đầy đủ nội thất giá
+# cao hơn phòng trọ cơ bản). Chưa bao gồm điện (~3.500-4.000đ/số), nước, mạng,
+# gửi xe, vệ sinh chung - cần cộng thêm nếu ước tính tổng chi phí sinh hoạt.
+
+# GHI CHÚ: Cột Nganh đã ghi tên đầy đủ; 2 ký tự đầu của Ma_SV là mã ngành tương ứng:
+#   HE = Cong nghe thong tin
+#   HS = An toan thong tin
+#   HA = Quan tri kinh doanh
+#   HC = Thiet ke my thuat so
+# 4 số cuối của Ma_SV là số thứ tự ngẫu nhiên trong từng nhóm (ngành, khóa).
+
+# GHI CHÚ: Các dòng có Khu_Vuc = "Dom A/B/C/D" là ký túc xá (Dom), không phải
+# phòng trọ tư nhân. Giá thuê ở đây là giá CẢ PHÒNG/tháng theo khảo sát thực tế:
+# phòng 4 người ~ 1.1 triệu/tháng, phòng 6 người ~ 0.8 triệu/tháng. Vì giá KTX do
+# nhà trường quy định cố định (không tăng giảm theo khoảng cách tới trường như
+# phòng trọ ngoài), các dòng này là ngoại lệ so với xu hướng chung của mô hình
+# hồi quy khoảng cách - giá thuê, dù nằm rất gần trường (Khoang_Cach_km ~0.1-0.7).
+
 # Đọc dữ liệu từ file CSV
 df = pd.read_csv('data.csv')
 

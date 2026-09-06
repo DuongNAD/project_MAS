@@ -1,0 +1,1270 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/8al3jt",
+    "id": "8al3jt",
+    "slide": 10,
+    "layoutId": "0e4050e4-07a7-4ea1-96ed-cdd6d5055e1b",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e4050e4-07a7-4ea1-96ed-cdd6d5055e1b",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ut4fq18f",
+      "id": "1",
+      "bbox": [
+        42,
+        30,
+        520,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN",
+      "textPreview": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Helvetica Neue",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#3D8DFF",
+            "bold": true,
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#3D8DFF",
+              "bold": true,
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwvylg76",
+      "id": "2",
+      "name": "slide-title",
+      "bbox": [
+        42,
+        68,
+        1180,
+        86
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "text": "Phần dư cho phép ước lượng sai số và độ bất định của β̂1",
+      "textPreview": "Phần dư cho phép ước lượng sai số và độ bất định của β̂1",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Phần dư cho phép ước lượng sai số và độ bất định của β̂1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Phần dư cho phép ước lượng sai số và độ bất định của β̂1",
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "bold": true,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Phần dư cho phép ước lượng sai số và độ bất định của β̂1",
+              "fontSize": 40,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "bold": true,
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvmhsbql",
+      "id": "3",
+      "bbox": [
+        42,
+        665,
+        24,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "straightConnector1",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qtgfmp4",
+      "id": "4",
+      "bbox": [
+        42,
+        676,
+        1196,
+        22
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "rect",
+      "text": "Nguồn: data_clean_sample.csv • Trang 10",
+      "textPreview": "Nguồn: data_clean_sample.csv • Trang 10",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Helvetica Neue",
+        "color": "#667085",
+        "alignment": "right",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Nguồn: data_clean_sample.csv • Trang 10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Nguồn: data_clean_sample.csv • Trang 10",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Helvetica Neue",
+            "color": "#667085",
+            "alignment": "right",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Nguồn: data_clean_sample.csv • Trang 10",
+              "fontSize": 13,
+              "typeface": "Helvetica Neue",
+              "color": "#667085",
+              "alignment": "right",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/vu1kra5w",
+      "id": "5",
+      "bbox": [
+        42,
+        190,
+        1196,
+        350
+      ],
+      "text": "Đại lượng | Công thức | Kết quả | Ý nghĩa\nSSE | Σei² | 4.9590 | Tổng sai lệch còn lại\ns² | SSE/(n−2) | 0.0870 | Ước lượng σ²\ns | √s² | 0.2950 | Sai số chuẩn mô hình\nSE(β̂1) | s/√Sxx | 0.0210 | Độ bất định β̂1\nSE(β̂0) | s√(1/n+x̄²/Sxx) | 0.1005 | Độ bất định β̂0",
+      "textPreview": "Đại lượng | Công thức | Kết quả | Ý nghĩa | SSE | Σei² | 4.9590 | Tổng sai lệch còn lại | s² | SSE/(n−2) | 0.0870 | Ước lượng σ² | s | √s...",
+      "rows": 6,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            42,
+            190,
+            230,
+            58.33
+          ],
+          "text": "Đại lượng",
+          "textPreview": "Đại lượng",
+          "fillColor": "#000000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Đại lượng",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Đại lượng"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            272,
+            190,
+            350,
+            58.33
+          ],
+          "text": "Công thức",
+          "textPreview": "Công thức",
+          "fillColor": "#000000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Công thức",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Công thức"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            622,
+            190,
+            210,
+            58.33
+          ],
+          "text": "Kết quả",
+          "textPreview": "Kết quả",
+          "fillColor": "#000000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Kết quả",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Kết quả"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            832,
+            190,
+            406,
+            58.33
+          ],
+          "text": "Ý nghĩa",
+          "textPreview": "Ý nghĩa",
+          "fillColor": "#000000",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Ý nghĩa",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Ý nghĩa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            42,
+            248.33,
+            230,
+            58.33
+          ],
+          "text": "SSE",
+          "textPreview": "SSE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "SSE",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "SSE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            272,
+            248.33,
+            350,
+            58.33
+          ],
+          "text": "Σei²",
+          "textPreview": "Σei²",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Σei²",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Σei²"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            622,
+            248.33,
+            210,
+            58.33
+          ],
+          "text": "4.9590",
+          "textPreview": "4.9590",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4.9590",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4.9590"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            832,
+            248.33,
+            406,
+            58.33
+          ],
+          "text": "Tổng sai lệch còn lại",
+          "textPreview": "Tổng sai lệch còn lại",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Tổng sai lệch còn lại",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Tổng sai lệch còn lại"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            42,
+            306.67,
+            230,
+            58.33
+          ],
+          "text": "s²",
+          "textPreview": "s²",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "s²",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "s²"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            272,
+            306.67,
+            350,
+            58.33
+          ],
+          "text": "SSE/(n−2)",
+          "textPreview": "SSE/(n−2)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "SSE/(n−2)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "SSE/(n−2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            622,
+            306.67,
+            210,
+            58.33
+          ],
+          "text": "0.0870",
+          "textPreview": "0.0870",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.0870",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.0870"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            832,
+            306.67,
+            406,
+            58.33
+          ],
+          "text": "Ước lượng σ²",
+          "textPreview": "Ước lượng σ²",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Ước lượng σ²",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Ước lượng σ²"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            42,
+            365,
+            230,
+            58.33
+          ],
+          "text": "s",
+          "textPreview": "s",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "s",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "s"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            272,
+            365,
+            350,
+            58.33
+          ],
+          "text": "√s²",
+          "textPreview": "√s²",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "√s²",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "√s²"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            622,
+            365,
+            210,
+            58.33
+          ],
+          "text": "0.2950",
+          "textPreview": "0.2950",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.2950",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.2950"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            832,
+            365,
+            406,
+            58.33
+          ],
+          "text": "Sai số chuẩn mô hình",
+          "textPreview": "Sai số chuẩn mô hình",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sai số chuẩn mô hình",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sai số chuẩn mô hình"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            42,
+            423.33,
+            230,
+            58.33
+          ],
+          "text": "SE(β̂1)",
+          "textPreview": "SE(β̂1)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "SE(β̂1)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "SE(β̂1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            272,
+            423.33,
+            350,
+            58.33
+          ],
+          "text": "s/√Sxx",
+          "textPreview": "s/√Sxx",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "s/√Sxx",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "s/√Sxx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            622,
+            423.33,
+            210,
+            58.33
+          ],
+          "text": "0.0210",
+          "textPreview": "0.0210",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.0210",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.0210"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            832,
+            423.33,
+            406,
+            58.33
+          ],
+          "text": "Độ bất định β̂1",
+          "textPreview": "Độ bất định β̂1",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Độ bất định β̂1",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Độ bất định β̂1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            42,
+            481.67,
+            230,
+            58.33
+          ],
+          "text": "SE(β̂0)",
+          "textPreview": "SE(β̂0)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "SE(β̂0)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "SE(β̂0)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            272,
+            481.67,
+            350,
+            58.33
+          ],
+          "text": "s√(1/n+x̄²/Sxx)",
+          "textPreview": "s√(1/n+x̄²/Sxx)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "s√(1/n+x̄²/Sxx)",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "s√(1/n+x̄²/Sxx)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            622,
+            481.67,
+            210,
+            58.33
+          ],
+          "text": "0.1005",
+          "textPreview": "0.1005",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.1005",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.1005"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            832,
+            481.67,
+            406,
+            58.33
+          ],
+          "text": "Độ bất định β̂0",
+          "textPreview": "Độ bất định β̂0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Độ bất định β̂0",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Độ bất định β̂0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9sbyhw7a",
+      "id": "6",
+      "bbox": [
+        42,
+        585,
+        1100,
+        48
+      ],
+      "geometry": "rect",
+      "text": "SSE càng nhỏ so với SST, mô hình càng giải thích được nhiều biến thiên của giá.",
+      "textPreview": "SSE càng nhỏ so với SST, mô hình càng giải thích được nhiều biến thiên của giá.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SSE càng nhỏ so với SST, mô hình càng giải thích được nhiều biến thiên của giá."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SSE càng nhỏ so với SST, mô hình càng giải thích được nhiều biến thiên của giá.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SSE càng nhỏ so với SST, mô hình càng giải thích được nhiều biến thiên của giá.",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "baseUnit": 1,
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1238,
+          "height": 698
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "position": {
+              "left": 42,
+              "top": 30
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 520
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 30
+              }
+            },
+            "intrinsicSize": {
+              "width": 520,
+              "height": 30
+            },
+            "frame": {
+              "left": 42,
+              "top": 30,
+              "width": 520,
+              "height": 30
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 30,
+              "width": 520,
+              "height": 30
+            },
+            "children": [],
+            "text": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN",
+            "transform": "none",
+            "element": {
+              "aid": "sh/ut4fq18f",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "text",
+            "name": "slide-title",
+            "position": {
+              "left": 42,
+              "top": 68
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1180
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 86
+              }
+            },
+            "intrinsicSize": {
+              "width": 1180,
+              "height": 86
+            },
+            "frame": {
+              "left": 42,
+              "top": 68,
+              "width": 1180,
+              "height": 86
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 68,
+              "width": 1180,
+              "height": 86
+            },
+            "children": [],
+            "text": "Phần dư cho phép ước lượng sai số và độ bất định của β̂1",
+            "transform": "none",
+            "element": {
+              "aid": "sh/hwvylg76",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "shape",
+            "position": {
+              "left": 42,
+              "top": 665
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 24
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 24
+              }
+            },
+            "intrinsicSize": {
+              "width": 24,
+              "height": 24
+            },
+            "frame": {
+              "left": 42,
+              "top": 665,
+              "width": 24,
+              "height": 24
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 665,
+              "width": 24,
+              "height": 24
+            },
+            "children": [],
+            "geometry": "straightConnector1",
+            "element": {
+              "aid": "sh/wvmhsbql",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "text",
+            "position": {
+              "left": 42,
+              "top": 676
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1196
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 22
+              }
+            },
+            "intrinsicSize": {
+              "width": 1196,
+              "height": 22
+            },
+            "frame": {
+              "left": 42,
+              "top": 676,
+              "width": 1196,
+              "height": 22
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 676,
+              "width": 1196,
+              "height": 22
+            },
+            "children": [],
+            "text": "Nguồn: data_clean_sample.csv • Trang 10",
+            "transform": "none",
+            "element": {
+              "aid": "sh/7qtgfmp4",
+              "id": "4",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 42,
+              "top": 30,
+              "width": 520,
+              "height": 30
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 42,
+              "top": 68,
+              "width": 1180,
+              "height": 86
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 42,
+              "top": 665,
+              "width": 24,
+              "height": 24
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 42,
+              "top": 676,
+              "width": 1196,
+              "height": 22
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

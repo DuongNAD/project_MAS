@@ -1,0 +1,591 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/9unyi7",
+    "id": "9unyi7",
+    "slide": 1,
+    "layoutId": "0e4050e4-07a7-4ea1-96ed-cdd6d5055e1b",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e4050e4-07a7-4ea1-96ed-cdd6d5055e1b",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zatsj6xc",
+      "id": "1",
+      "bbox": [
+        42,
+        42,
+        600,
+        40
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "ĐẠI HỌC FPT • MÔN MAS",
+      "textPreview": "ĐẠI HỌC FPT • MÔN MAS",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Helvetica Neue",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ĐẠI HỌC FPT • MÔN MAS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ĐẠI HỌC FPT • MÔN MAS",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Helvetica Neue",
+            "color": "#3D8DFF",
+            "bold": true,
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ĐẠI HỌC FPT • MÔN MAS",
+              "fontSize": 24,
+              "typeface": "Helvetica Neue",
+              "color": "#3D8DFF",
+              "bold": true,
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0b2tcbyx",
+      "id": "2",
+      "bbox": [
+        42,
+        170,
+        1080,
+        270
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "text": "Khoảng cách ảnh hưởng thế nào đến giá thuê trọ?",
+      "textPreview": "Khoảng cách ảnh hưởng thế nào đến giá thuê trọ?",
+      "resolvedFontSize": 66,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 66,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Khoảng cách ảnh hưởng thế nào"
+          },
+          {
+            "index": 2,
+            "text": "đến giá thuê trọ?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Khoảng cách ảnh hưởng thế nào đến giá thuê trọ?",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "fontSize": 66,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "bold": true,
+            "verticalAlignment": "bottom",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Khoảng cách ảnh hưởng thế nào đến giá thuê trọ?",
+              "anchor": 3,
+              "fontSize": 66,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "bold": true,
+              "verticalAlignment": "bottom",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lcbulgfi",
+      "id": "3",
+      "bbox": [
+        42,
+        500,
+        850,
+        110
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "rect",
+      "text": "Hồi quy tuyến tính đơn trên 76 quan sát sạch\nNhóm: [Tên nhóm] • Thành viên: [Điền tên]",
+      "textPreview": "Hồi quy tuyến tính đơn trên 76 quan sát sạch | Nhóm: [Tên nhóm] • Thành viên: [Điền tên]",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Hồi quy tuyến tính đơn trên 76 quan sát sạch"
+          },
+          {
+            "index": 2,
+            "text": "Nhóm: [Tên nhóm] • Thành viên: [Điền tên]"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Hồi quy tuyến tính đơn trên 76 quan sát sạch\nNhóm: [Tên nhóm] • Thành viên: [Điền tên]",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Hồi quy tuyến tính đơn trên 76 quan sát sạch\nNhóm: [Tên nhóm] • Thành viên: [Điền tên]",
+              "fontSize": 27,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/md4belg3",
+      "id": "4",
+      "bbox": [
+        1130,
+        0,
+        24,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "rect",
+      "fillColor": "#6DCBF4",
+      "lineColor": "#6DCBF4",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "baseUnit": 1,
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1154,
+          "height": 610
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "position": {
+              "left": 42,
+              "top": 42
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 600
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 40
+              }
+            },
+            "intrinsicSize": {
+              "width": 600,
+              "height": 40
+            },
+            "frame": {
+              "left": 42,
+              "top": 42,
+              "width": 600,
+              "height": 40
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 42,
+              "width": 600,
+              "height": 40
+            },
+            "children": [],
+            "text": "ĐẠI HỌC FPT • MÔN MAS",
+            "transform": "none",
+            "element": {
+              "aid": "sh/zatsj6xc",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "text",
+            "position": {
+              "left": 42,
+              "top": 170
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1080
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 270
+              }
+            },
+            "intrinsicSize": {
+              "width": 1080,
+              "height": 270
+            },
+            "frame": {
+              "left": 42,
+              "top": 170,
+              "width": 1080,
+              "height": 270
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 170,
+              "width": 1080,
+              "height": 270
+            },
+            "children": [],
+            "text": "Khoảng cách ảnh hưởng thế nào đến giá thuê trọ?",
+            "transform": "none",
+            "element": {
+              "aid": "sh/0b2tcbyx",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "text",
+            "position": {
+              "left": 42,
+              "top": 500
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 850
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 110
+              }
+            },
+            "intrinsicSize": {
+              "width": 850,
+              "height": 110
+            },
+            "frame": {
+              "left": 42,
+              "top": 500,
+              "width": 850,
+              "height": 110
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 500,
+              "width": 850,
+              "height": 110
+            },
+            "children": [],
+            "text": "Hồi quy tuyến tính đơn trên 76 quan sát sạch\nNhóm: [Tên nhóm] • Thành viên: [Điền tên]",
+            "transform": "none",
+            "element": {
+              "aid": "sh/lcbulgfi",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "shape",
+            "position": {
+              "left": 1130,
+              "top": 0
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 24
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 24
+              }
+            },
+            "intrinsicSize": {
+              "width": 24,
+              "height": 24
+            },
+            "frame": {
+              "left": 1130,
+              "top": 0,
+              "width": 24,
+              "height": 24
+            },
+            "snappedFrame": {
+              "left": 1130,
+              "top": 0,
+              "width": 24,
+              "height": 24
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/md4belg3",
+              "id": "4",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 42,
+              "top": 42,
+              "width": 600,
+              "height": 40
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 42,
+              "top": 170,
+              "width": 1080,
+              "height": 270
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 42,
+              "top": 500,
+              "width": 850,
+              "height": 110
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 1130,
+              "top": 0,
+              "width": 24,
+              "height": 24
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

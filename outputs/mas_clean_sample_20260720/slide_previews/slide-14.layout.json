@@ -1,0 +1,724 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/9na2k5",
+    "id": "9na2k5",
+    "slide": 14,
+    "layoutId": "0e4050e4-07a7-4ea1-96ed-cdd6d5055e1b",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e4050e4-07a7-4ea1-96ed-cdd6d5055e1b",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixgfi90r",
+      "id": "1",
+      "bbox": [
+        42,
+        42,
+        320,
+        40
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "KẾT LUẬN",
+      "textPreview": "KẾT LUẬN",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Helvetica Neue",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "KẾT LUẬN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "KẾT LUẬN",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Helvetica Neue",
+            "color": "#3D8DFF",
+            "bold": true,
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "KẾT LUẬN",
+              "fontSize": 24,
+              "typeface": "Helvetica Neue",
+              "color": "#3D8DFF",
+              "bold": true,
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/50redozi",
+      "id": "2",
+      "bbox": [
+        42,
+        155,
+        1080,
+        180
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "text": "Khoảng cách có quan hệ âm với giá thuê trọ ngoài KTX.",
+      "textPreview": "Khoảng cách có quan hệ âm với giá thuê trọ ngoài KTX.",
+      "resolvedFontSize": 56,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 56,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Khoảng cách có quan hệ âm với giá"
+          },
+          {
+            "index": 2,
+            "text": "thuê trọ ngoài KTX."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Khoảng cách có quan hệ âm với giá thuê trọ ngoài KTX.",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "fontSize": 56,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "bold": true,
+            "verticalAlignment": "bottom",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Khoảng cách có quan hệ âm với giá thuê trọ ngoài KTX.",
+              "anchor": 3,
+              "fontSize": 56,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "bold": true,
+              "verticalAlignment": "bottom",
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zyxkjix",
+      "id": "3",
+      "bbox": [
+        42,
+        390,
+        1000,
+        70
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "rect",
+      "text": "−146 nghìn đồng/km • R² 45.80% • p 4.01e-9",
+      "textPreview": "−146 nghìn đồng/km • R² 45.80% • p 4.01e-9",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "Helvetica Neue",
+        "color": "#238636",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "−146 nghìn đồng/km • R² 45.80% • p 4.01e-9"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "−146 nghìn đồng/km • R² 45.80% • p 4.01e-9",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Helvetica Neue",
+            "color": "#238636",
+            "bold": true,
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "−146 nghìn đồng/km • R² 45.80% • p 4.01e-9",
+              "fontSize": 31,
+              "typeface": "Helvetica Neue",
+              "color": "#238636",
+              "bold": true,
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vupw7ehg",
+      "id": "4",
+      "bbox": [
+        42,
+        510,
+        950,
+        115
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "rect",
+      "text": "Giới hạn: hồi quy quan sát đơn biến chưa kiểm soát diện tích, nội thất, dịch vụ và chất lượng khu vực.\nBước tiếp theo: mở rộng mẫu và thử hồi quy đa biến.",
+      "textPreview": "Giới hạn: hồi quy quan sát đơn biến chưa kiểm soát diện tích, nội thất, dịch vụ và chất lượng khu vực. | Bước tiếp theo: mở rộng mẫu và t...",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Giới hạn: hồi quy quan sát đơn biến chưa kiểm soát diện tích, nội thất, dịch vụ và chất"
+          },
+          {
+            "index": 2,
+            "text": "lượng khu vực."
+          },
+          {
+            "index": 3,
+            "text": "Bước tiếp theo: mở rộng mẫu và thử hồi quy đa biến."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Giới hạn: hồi quy quan sát đơn biến chưa kiểm soát diện tích, nội thất, dịch vụ và chất lượng khu vực.\nBước tiếp theo: mở rộng mẫu và thử hồi quy đa biến.",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Giới hạn: hồi quy quan sát đơn biến chưa kiểm soát diện tích, nội thất, dịch vụ và chất lượng khu vực.\nBước tiếp theo: mở rộng mẫu và thử hồi quy đa biến.",
+              "fontSize": 23,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/utgve90v",
+      "id": "5",
+      "bbox": [
+        1130,
+        0,
+        24,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.4"
+      },
+      "geometry": "rect",
+      "fillColor": "#6DCBF4",
+      "lineColor": "#6DCBF4",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "baseUnit": 1,
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1154,
+          "height": 625
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "position": {
+              "left": 42,
+              "top": 42
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 320
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 40
+              }
+            },
+            "intrinsicSize": {
+              "width": 320,
+              "height": 40
+            },
+            "frame": {
+              "left": 42,
+              "top": 42,
+              "width": 320,
+              "height": 40
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 42,
+              "width": 320,
+              "height": 40
+            },
+            "children": [],
+            "text": "KẾT LUẬN",
+            "transform": "none",
+            "element": {
+              "aid": "sh/ixgfi90r",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "text",
+            "position": {
+              "left": 42,
+              "top": 155
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1080
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 180
+              }
+            },
+            "intrinsicSize": {
+              "width": 1080,
+              "height": 180
+            },
+            "frame": {
+              "left": 42,
+              "top": 155,
+              "width": 1080,
+              "height": 180
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 155,
+              "width": 1080,
+              "height": 180
+            },
+            "children": [],
+            "text": "Khoảng cách có quan hệ âm với giá thuê trọ ngoài KTX.",
+            "transform": "none",
+            "element": {
+              "aid": "sh/50redozi",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "text",
+            "position": {
+              "left": 42,
+              "top": 390
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1000
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 70
+              }
+            },
+            "intrinsicSize": {
+              "width": 1000,
+              "height": 70
+            },
+            "frame": {
+              "left": 42,
+              "top": 390,
+              "width": 1000,
+              "height": 70
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 390,
+              "width": 1000,
+              "height": 70
+            },
+            "children": [],
+            "text": "−146 nghìn đồng/km • R² 45.80% • p 4.01e-9",
+            "transform": "none",
+            "element": {
+              "aid": "sh/4zyxkjix",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "text",
+            "position": {
+              "left": 42,
+              "top": 510
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 950
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 115
+              }
+            },
+            "intrinsicSize": {
+              "width": 950,
+              "height": 115
+            },
+            "frame": {
+              "left": 42,
+              "top": 510,
+              "width": 950,
+              "height": 115
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 510,
+              "width": 950,
+              "height": 115
+            },
+            "children": [],
+            "text": "Giới hạn: hồi quy quan sát đơn biến chưa kiểm soát diện tích, nội thất, dịch vụ và chất lượng khu vực.\nBước tiếp theo: mở rộng mẫu và thử hồi quy đa biến.",
+            "transform": "none",
+            "element": {
+              "aid": "sh/vupw7ehg",
+              "id": "4",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.4",
+            "kind": "shape",
+            "position": {
+              "left": 1130,
+              "top": 0
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 24
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 24
+              }
+            },
+            "intrinsicSize": {
+              "width": 24,
+              "height": 24
+            },
+            "frame": {
+              "left": 1130,
+              "top": 0,
+              "width": 24,
+              "height": 24
+            },
+            "snappedFrame": {
+              "left": 1130,
+              "top": 0,
+              "width": 24,
+              "height": 24
+            },
+            "children": [],
+            "geometry": "rect",
+            "element": {
+              "aid": "sh/utgve90v",
+              "id": "5",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 42,
+              "top": 42,
+              "width": 320,
+              "height": 40
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 42,
+              "top": 155,
+              "width": 1080,
+              "height": 180
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 42,
+              "top": 390,
+              "width": 1000,
+              "height": 70
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 42,
+              "top": 510,
+              "width": 950,
+              "height": 115
+            }
+          },
+          {
+            "path": "0.4",
+            "frame": {
+              "left": 1130,
+              "top": 0,
+              "width": 24,
+              "height": 24
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{"kind":"deck","id":"pr/jimlrl","name":"Deck"}
+{"kind":"layout","layoutId":"e909a25a-bcaa-413e-87ff-78702b9823e4","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"0e4050e4-07a7-4ea1-96ed-cdd6d5055e1b","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/9unyi7","slide":1,"title":"ĐẠI HỌC FPT • MÔN MAS","textShapes":3}
+{"kind":"textbox","id":"sh/zatsj6xc","slide":1,"text":"ĐẠI HỌC FPT • MÔN MAS","textPreview":"ĐẠI HỌC FPT • MÔN MAS","textChars":21,"textLines":1,"bbox":[42,42,600,40]}
+{"kind":"textbox","id":"sh/0b2tcbyx","slide":1,"text":"Khoảng cách ảnh hưởng thế nào đến giá thuê trọ?","textPreview":"Khoảng cách ảnh hưởng thế nào đến giá thuê trọ?","textChars":47,"textLines":1,"bbox":[42,170,1080,270]}
+{"kind":"textbox","id":"sh/lcbulgfi","slide":1,"text":"Hồi quy tuyến tính đơn trên 76 quan sát sạch\nNhóm: [Tên nhóm] • Thành viên: [Điền tên]","textPreview":"Hồi quy tuyến tính đơn trên 76 quan sát sạch | Nhóm: [Tên nhóm] • Thành viên: [Điền tên]","textChars":86,"textLines":2,"bbox":[42,500,850,110]}
+{"kind":"shape","id":"sh/md4belg3","slide":1,"bbox":[1130,0,24,24]}
+{"kind":"notes","id":"nt/9unyi7","slide":1,"text":"Mở đầu: Nhóm em nghiên cứu mối liên hệ giữa khoảng cách từ chỗ ở đến trường và giá thuê hàng tháng.\nBiến X là khoảng cách tính bằng km; biến Y là giá thuê tính bằng triệu đồng mỗi tháng.\nToàn bộ kết quả trong slide được đối chiếu trực tiếp với file Excel đi kèm."}
+{"kind":"slide","id":"sl/19ir2v","slide":2,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":21}
+{"kind":"textbox","id":"sh/ds7qxsr2","slide":2,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/qpgrmxsr","slide":2,"name":"slide-title","text":"Nhóm đi từ dữ liệu sạch đến kết luận qua 6 bước","textPreview":"Nhóm đi từ dữ liệu sạch đến kết luận qua 6 bước","textChars":47,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/rqp8v29c","slide":2,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/4ny9knal","slide":2,"text":"Nguồn: data_clean_sample.csv • Trang 2","textPreview":"Nguồn: data_clean_sample.csv • Trang 2","textChars":38,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"shape","id":"sh/po7qtsr6","slide":2,"bbox":[110,345,1060,0]}
+{"kind":"shape","id":"sh/21wridsf","slide":2,"bbox":[78,321,48,48]}
+{"kind":"textbox","id":"sh/32p8ri90","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[78,329,48,26]}
+{"kind":"textbox","id":"sh/oji9w7qp","slide":2,"text":"Kiểm tra","textPreview":"Kiểm tra","textChars":8,"textLines":1,"bbox":[60,235,130,35]}
+{"kind":"textbox","id":"sh/9kba5cra","slide":2,"text":"Thiếu, trùng,\nphạm vi","textPreview":"Thiếu, trùng, | phạm vi","textChars":21,"textLines":2,"bbox":[60,390,155,75]}
+{"kind":"shape","id":"sh/p8zih8f6","slide":2,"bbox":[280,321,48,48]}
+{"kind":"textbox","id":"sh/47q183y1","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[280,329,48,26]}
+{"kind":"textbox","id":"sh/36h0fyxg","slide":2,"text":"Mô tả","textPreview":"Mô tả","textChars":5,"textLines":1,"bbox":[262,235,130,35]}
+{"kind":"textbox","id":"sh/2l8j6tgv","slide":2,"text":"Phân bố và\nnhóm dữ liệu","textPreview":"Phân bố và | nhóm dữ liệu","textChars":23,"textLines":2,"bbox":[262,390,155,75]}
+{"kind":"shape","id":"sh/hkzidofa","slide":2,"bbox":[482,321,48,48]}
+{"kind":"textbox","id":"sh/gjq14jyp","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[482,329,48,26]}
+{"kind":"textbox","id":"sh/fih0bex4","slide":2,"text":"Chọn mẫu","textPreview":"Chọn mẫu","textChars":8,"textLines":1,"bbox":[464,235,130,35]}
+{"kind":"textbox","id":"sh/uh8j2tgj","slide":2,"text":"Tách 17 KTX","textPreview":"Tách 17 KTX","textChars":11,"textLines":1,"bbox":[464,390,155,75]}
+{"kind":"shape","id":"sh/1g32psfe","slide":2,"bbox":[684,321,48,48]}
+{"kind":"textbox","id":"sh/0fa1gny9","slide":2,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[684,329,48,26]}
+{"kind":"textbox","id":"sh/kv2d8vah","slide":2,"text":"Ước lượng","textPreview":"Ước lượng","textChars":9,"textLines":1,"bbox":[666,235,130,35]}
+{"kind":"textbox","id":"sh/lwbu10r2","slide":2,"text":"β̂0, β̂1 bằng OLS","textPreview":"β̂0, β̂1 bằng OLS","textChars":17,"textLines":1,"bbox":[666,390,155,75]}
+{"kind":"shape","id":"sh/ytkv6lsb","slide":2,"bbox":[886,321,48,48]}
+{"kind":"textbox","id":"sh/jutczq9w","slide":2,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[886,329,48,26]}
+{"kind":"textbox","id":"sh/wr2t4bal","slide":2,"text":"Kiểm định","textPreview":"Kiểm định","textChars":9,"textLines":1,"bbox":[868,235,130,35]}
+{"kind":"textbox","id":"sh/xsbuxgrq","slide":2,"text":"SE, t, p, CI","textPreview":"SE, t, p, CI","textChars":12,"textLines":1,"bbox":[868,390,155,75]}
+{"kind":"shape","id":"sh/ap0b21sf","slide":2,"bbox":[1088,321,48,48]}
+{"kind":"textbox","id":"sh/bqtcv690","slide":2,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1088,329,48,26]}
+{"kind":"textbox","id":"sh/o3it0ba9","slide":2,"text":"Dự báo","textPreview":"Dự báo","textChars":6,"textLines":1,"bbox":[1070,235,130,35]}
+{"kind":"textbox","id":"sh/94rutwru","slide":2,"text":"Ŷ tại X0","textPreview":"Ŷ tại X0","textChars":8,"textLines":1,"bbox":[1070,390,155,75]}
+{"kind":"notes","id":"nt/19ir2v","slide":2,"text":"Đây là quy trình thực tế nhóm đã làm và cũng là thứ tự nhóm sẽ trình bày.\nNhóm không chạy hồi quy ngay; trước hết phải chứng minh dữ liệu đủ sạch và mẫu phù hợp với câu hỏi nghiên cứu.\nSau khi ước lượng, nhóm mới kiểm định ý nghĩa và dùng mô hình để dự báo."}
+{"kind":"slide","id":"sl/d7053e","slide":3,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":15}
+{"kind":"textbox","id":"sh/o7exwnyl","slide":3,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/nmlw32h0","slide":3,"name":"slide-title","text":"Mỗi thành viên chịu trách nhiệm một đầu ra có thể kiểm chứng","textPreview":"Mỗi thành viên chịu trách nhiệm một đầu ra có thể kiểm chứng","textChars":60,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/mlcfuxgf","slide":3,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/1k3e1szu","slide":3,"text":"Nguồn: data_clean_sample.csv • Trang 3","textPreview":"Nguồn: data_clean_sample.csv • Trang 3","textChars":38,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"shape","id":"sh/0juxsny9","slide":3,"bbox":[42,190,270,370]}
+{"kind":"textbox","id":"sh/zilwziho","slide":3,"text":"[Tên 1]","textPreview":"[Tên 1]","textChars":7,"textLines":1,"bbox":[66,220,220,38]}
+{"kind":"textbox","id":"sh/ehcfqdg3","slide":3,"text":"Thu thập dữ liệu","textPreview":"Thu thập dữ liệu","textChars":16,"textLines":1,"bbox":[66,285,220,72]}
+{"kind":"textbox","id":"sh/dg3ex8zy","slide":3,"text":"Thiết kế câu hỏi\nTổng hợp phản hồi","textPreview":"Thiết kế câu hỏi | Tổng hợp phản hồi","textChars":34,"textLines":2,"bbox":[66,385,220,130]}
+{"kind":"shape","id":"sh/cfaxo3yd","slide":3,"bbox":[344,190,270,370]}
+{"kind":"textbox","id":"sh/el4rydcj","slide":3,"text":"[Tên 2]","textPreview":"[Tên 2]","textChars":7,"textLines":1,"bbox":[368,220,220,38]}
+{"kind":"textbox","id":"sh/z6d87it4","slide":3,"text":"Làm sạch & chọn mẫu","textPreview":"Làm sạch & chọn mẫu","textChars":19,"textLines":1,"bbox":[368,285,220,72]}
+{"kind":"textbox","id":"sh/07m90nup","slide":3,"text":"Chuẩn hóa\nKiểm tra thiếu/trùng\nTách KTX","textPreview":"Chuẩn hóa | Kiểm tra thiếu/trùng | Tách KTX","textChars":39,"textLines":3,"bbox":[368,385,220,130]}
+{"kind":"shape","id":"sh/l8vq9sbu","slide":3,"bbox":[646,190,270,370]}
+{"kind":"textbox","id":"sh/qhk7udc7","slide":3,"text":"[Tên 3]","textPreview":"[Tên 3]","textChars":7,"textLines":1,"bbox":[670,220,220,38]}
+{"kind":"textbox","id":"sh/rit83its","slide":3,"text":"Excel & ước lượng","textPreview":"Excel & ước lượng","textChars":17,"textLines":1,"bbox":[670,285,220,72]}
+{"kind":"textbox","id":"sh/cjm9wnud","slide":3,"text":"Cột tính OLS\nSE, t, p, CI\nDự báo","textPreview":"Cột tính OLS | SE, t, p, CI | Dự báo","textChars":32,"textLines":3,"bbox":[670,385,220,130]}
+{"kind":"shape","id":"sh/dkvq5sby","slide":3,"bbox":[948,190,270,370]}
+{"kind":"textbox","id":"sh/2dk7qtcb","slide":3,"text":"[Tên 4]","textPreview":"[Tên 4]","textChars":7,"textLines":1,"bbox":[972,220,220,38]}
+{"kind":"textbox","id":"sh/3et8zytw","slide":3,"text":"Slide & diễn giải","textPreview":"Slide & diễn giải","textChars":17,"textLines":1,"bbox":[972,285,220,72]}
+{"kind":"textbox","id":"sh/7iporu9o","slide":3,"text":"Biểu đồ\nKết luận\nGiới hạn","textPreview":"Biểu đồ | Kết luận | Giới hạn","textChars":25,"textLines":3,"bbox":[972,385,220,130]}
+{"kind":"notes","id":"nt/d7053e","slide":3,"text":"Trước khi trình bày, thay bốn ô [Tên] bằng tên thật và điều chỉnh đúng phần mỗi người thực sự làm.\nMỗi thành viên nói một câu ngắn về phần mình và chỉ ngay sheet hoặc slide là đầu ra của phần đó.\nCách này đáp ứng yêu cầu của thầy về việc nêu rõ công việc cá nhân trong nhóm."}
+{"kind":"slide","id":"sl/yfkq73","slide":4,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":15}
+{"kind":"textbox","id":"sh/5w3m98ze","slide":4,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/its3yd03","slide":4,"name":"slide-title","text":"Mẫu sạch có 76 quan sát và không còn lỗi cơ bản","textPreview":"Mẫu sạch có 76 quan sát và không còn lỗi cơ bản","textChars":47,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/ju147ih8","slide":4,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/wralw3ix","slide":4,"text":"Nguồn: data_clean_sample.csv • Trang 4","textPreview":"Nguồn: data_clean_sample.csv • Trang 4","textChars":38,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"textbox","id":"sh/xsjm58zi","slide":4,"text":"76","textPreview":"76","textChars":2,"textLines":1,"bbox":[42,205,250,100]}
+{"kind":"textbox","id":"sh/aps3ut0r","slide":4,"text":"quan sát","textPreview":"quan sát","textChars":8,"textLines":1,"bbox":[42,315,250,58]}
+{"kind":"textbox","id":"sh/vq143yhc","slide":4,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[344,205,250,100]}
+{"kind":"textbox","id":"sh/gne587i1","slide":4,"text":"ô bắt buộc bị thiếu","textPreview":"ô bắt buộc bị thiếu","textChars":19,"textLines":1,"bbox":[344,315,250,58]}
+{"kind":"textbox","id":"sh/1onmhszm","slide":4,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[646,205,250,100]}
+{"kind":"textbox","id":"sh/54fils7u","slide":4,"text":"mã sinh viên trùng","textPreview":"mã sinh viên trùng","textChars":18,"textLines":1,"bbox":[646,315,250,58]}
+{"kind":"textbox","id":"sh/436hcnq9","slide":4,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[948,205,250,100]}
+{"kind":"textbox","id":"sh/32x0jipo","slide":4,"text":"biến khảo sát","textPreview":"biến khảo sát","textChars":13,"textLines":1,"bbox":[948,315,250,58]}
+{"kind":"textbox","id":"sh/i1ozad83","slide":4,"text":"Ba biến số được kiểm tra phạm vi","textPreview":"Ba biến số được kiểm tra phạm vi","textChars":32,"textLines":1,"bbox":[42,450,480,42]}
+{"kind":"textbox","id":"sh/h0fih87i","slide":4,"text":"0 < Khoảng cách ≤ 15 km\n0 < Giá thuê ≤ 4 triệu\n1 ≤ Số người ≤ 6","textPreview":"0 < Khoảng cách ≤ 15 km | 0 < Giá thuê ≤ 4 triệu | 1 ≤ Số người ≤ 6","textChars":63,"textLines":3,"bbox":[42,510,500,115]}
+{"kind":"textbox","id":"sh/gz6h83qd","slide":4,"text":"Các biến phân loại đã chuẩn hóa","textPreview":"Các biến phân loại đã chuẩn hóa","textChars":31,"textLines":1,"bbox":[670,450,480,42]}
+{"kind":"textbox","id":"sh/vyx0fyps","slide":4,"text":"Giới tính • Ngành • Khu vực\nLoại phòng • Phương tiện","textPreview":"Giới tính • Ngành • Khu vực | Loại phòng • Phương tiện","textChars":52,"textLines":2,"bbox":[670,510,500,100]}
+{"kind":"notes","id":"nt/yfkq73","slide":4,"text":"Nhóm kiểm tra số dòng, ô trống, trùng mã sinh viên và phạm vi hợp lý của các biến số.\nKết quả đều đạt: 76 dòng, không thiếu dữ liệu, không trùng mã, không có giá trị số ngoài ngưỡng.\nCác công thức kiểm tra chi tiết nằm trong sheet KiemTraDuLieu."}
+{"kind":"slide","id":"sl/xc6y9c","slide":5,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":4}
+{"kind":"textbox","id":"sh/a50n21wn","slide":5,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/xsr6dwve","slide":5,"name":"slide-title","text":"Nhóm chỉ sửa lỗi suy ra chắc chắn, còn dữ liệu thiếu hoặc phi lý thì loại","textPreview":"Nhóm chỉ sửa lỗi suy ra chắc chắn, còn dữ liệu thiếu hoặc phi lý thì loại","textChars":73,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/wri54bet","slide":5,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/n2po7mxc","slide":5,"text":"Nguồn: data_clean_sample.csv • Trang 5","textPreview":"Nguồn: data_clean_sample.csv • Trang 5","textChars":38,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"textbox","id":"sh/94769wf2","slide":5,"text":"Kết quả cuối: data_clean_sample.csv đạt toàn bộ điều kiện kiểm tra.","textPreview":"Kết quả cuối: data_clean_sample.csv đạt toàn bộ điều kiện kiểm tra.","textChars":67,"textLines":1,"bbox":[42,615,1050,38]}
+{"kind":"table","id":"tb/bixwnilc","slide":5,"name":"","rows":7,"cols":4,"preview":"Nhóm lỗi | Ví dụ | Xử lý | Nguyên tắc","bbox":[42,180,1196,420]}
+{"kind":"notes","id":"nt/xc6y9c","slide":5,"text":"Điểm quan trọng nhất là nhóm không tự bịa dữ liệu.\nLỗi định dạng chỉ được sửa khi giá trị đúng có thể suy ra chắc chắn; dữ liệu thiếu bắt buộc hoặc phi lý sẽ bị loại.\nSau quy trình này, file mẫu sạch mới được dùng cho thống kê và hồi quy."}
+{"kind":"slide","id":"sl/ysk7m8","slide":6,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":10}
+{"kind":"textbox","id":"sh/natgvm1o","slide":6,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/ob2x4ri9","slide":6,"name":"slide-title","text":"Gộp KTX làm hệ số đổi dấu, nên mẫu hồi quy chỉ dùng 59 trọ ngoài","textPreview":"Gộp KTX làm hệ số đổi dấu, nên mẫu hồi quy chỉ dùng 59 trọ ngoài","textChars":64,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/9cbyxcju","slide":6,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/adkf6h0z","slide":6,"text":"Nguồn: data_clean_sample.csv • Trang 6","textPreview":"Nguồn: data_clean_sample.csv • Trang 6","textChars":38,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"shape","id":"sh/bedgzm1k","slide":6,"bbox":[42,190,550,355]}
+{"kind":"textbox","id":"sh/wzmx8ri5","slide":6,"text":"Gộp cả 76 quan sát","textPreview":"Gộp cả 76 quan sát","textChars":18,"textLines":1,"bbox":[72,225,470,44]}
+{"kind":"textbox","id":"sh/x0vy1wjq","slide":6,"text":"β̂1 = +0.0565\nR² = 6.03%","textPreview":"β̂1 = +0.0565 | R² = 6.03%","textChars":24,"textLines":2,"bbox":[72,300,470,120]}
+{"kind":"textbox","id":"sh/qh0fuxkv","slide":6,"text":"KTX rất gần trường nhưng giá do nhà trường quy định.","textPreview":"KTX rất gần trường nhưng giá do nhà trường quy định.","textChars":52,"textLines":1,"bbox":[72,445,460,80]}
+{"kind":"shape","id":"sh/ri9wn21g","slide":6,"bbox":[646,190,592,355]}
+{"kind":"textbox","id":"sh/32lcb2ls","slide":6,"text":"Chỉ 59 trọ ngoài KTX","textPreview":"Chỉ 59 trọ ngoài KTX","textChars":20,"textLines":1,"bbox":[678,225,510,44]}
+{"kind":"textbox","id":"sh/2hcb2x4n","slide":6,"text":"β̂1 = -0.1457\nR² = 45.80%","textPreview":"β̂1 = -0.1457 | R² = 45.80%","textChars":25,"textLines":2,"bbox":[678,300,510,120]}
+{"kind":"textbox","id":"sh/p43udc3y","slide":6,"text":"Mẫu phù hợp với câu hỏi về giá thuê thị trường.","textPreview":"Mẫu phù hợp với câu hỏi về giá thuê thị trường.","textChars":47,"textLines":1,"bbox":[678,445,500,80]}
+{"kind":"textbox","id":"sh/o3ud47md","slide":6,"text":"17 dòng KTX vẫn được giữ để mô tả — không bị xóa khỏi dữ liệu sạch.","textPreview":"17 dòng KTX vẫn được giữ để mô tả — không bị xóa khỏi dữ liệu sạch.","textChars":67,"textLines":1,"bbox":[42,590,1080,40]}
+{"kind":"notes","id":"nt/ysk7m8","slide":6,"text":"Đây là quyết định quan trọng nhất về phạm vi mô hình.\nNếu gộp KTX, hệ số góc thành dương 0.0565 vì KTX vừa gần vừa rẻ.\nKhi chỉ xét 59 phòng trọ ngoài, hệ số trở lại âm -0.1457, phù hợp cơ chế giá thị trường.\nNhóm vẫn giữ KTX trong thống kê mô tả để minh bạch."}
+{"kind":"slide","id":"sl/t91ru7","slide":7,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":9}
+{"kind":"textbox","id":"sh/ap0ni9gv","slide":7,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/xcrmdoz6","slide":7,"name":"slide-title","text":"Khu vực xa hơn có giá thuê trung bình thấp hơn","textPreview":"Khu vực xa hơn có giá thuê trung bình thấp hơn","textChars":46,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/wri5kjyl","slide":7,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/je94fyhc","slide":7,"text":"Nguồn: data_clean_sample.csv • Trang 7","textPreview":"Nguồn: data_clean_sample.csv • Trang 7","textChars":38,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"textbox","id":"sh/lgr6hozi","slide":7,"text":"Tân Xã","textPreview":"Tân Xã","textChars":6,"textLines":1,"bbox":[760,210,220,34]}
+{"kind":"textbox","id":"sh/kfi5ojyx","slide":7,"text":"x̄ = 2,81 km\nȳ = 2,18 triệu","textPreview":"x̄ = 2,81 km | ȳ = 2,18 triệu","textChars":27,"textLines":2,"bbox":[760,255,400,80]}
+{"kind":"textbox","id":"sh/7itojyh8","slide":7,"text":"Thạch Hòa","textPreview":"Thạch Hòa","textChars":9,"textLines":1,"bbox":[760,360,220,34]}
+{"kind":"textbox","id":"sh/6hknqtgn","slide":7,"text":"x̄ = 3,61 km\nȳ = 2,23 triệu","textPreview":"x̄ = 3,61 km | ȳ = 2,23 triệu","textChars":27,"textLines":2,"bbox":[760,405,400,80]}
+{"kind":"textbox","id":"sh/kzqp8nyh","slide":7,"text":"Hòa Lạc","textPreview":"Hòa Lạc","textChars":7,"textLines":1,"bbox":[760,510,220,34]}
+{"kind":"textbox","id":"sh/50z6hsz2","slide":7,"text":"x̄ = 6,40 km\nȳ = 1,65 triệu","textPreview":"x̄ = 6,40 km | ȳ = 1,65 triệu","textChars":27,"textLines":2,"bbox":[760,555,400,75]}
+{"kind":"chart","id":"ch/ehgrup0v","slide":7,"name":"","chartType":"bar","bbox":[42,175,660,420]}
+{"kind":"notes","id":"nt/t91ru7","slide":7,"text":"Biểu đồ mô tả cho thấy Hòa Lạc xa hơn và có giá trung bình thấp hơn.\nTân Xã và Thạch Hòa có giá gần nhau dù khoảng cách khác, gợi ý rằng loại phòng và chất lượng phòng cũng quan trọng.\nVì vậy hồi quy đơn chỉ giải thích một phần biến thiên giá."}
+{"kind":"slide","id":"sl/6nyo55","slide":8,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":10}
+{"kind":"textbox","id":"sh/8nqx0ne5","slide":8,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/7mxgrixk","slide":8,"name":"slide-title","text":"OLS chọn đường thẳng làm tổng bình phương phần dư nhỏ nhất","textPreview":"OLS chọn đường thẳng làm tổng bình phương phần dư nhỏ nhất","textChars":58,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/6lofydwz","slide":8,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/hczyxsvm","slide":8,"text":"Nguồn: data_clean_sample.csv • Trang 8","textPreview":"Nguồn: data_clean_sample.csv • Trang 8","textChars":38,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"textbox","id":"sh/gbqx4ne1","slide":8,"text":"Mô hình tổng thể","textPreview":"Mô hình tổng thể","textChars":16,"textLines":1,"bbox":[42,195,430,40]}
+{"kind":"textbox","id":"sh/vahgv2xg","slide":8,"text":"Yi = β0 + β1Xi + εi","textPreview":"Yi = β0 + β1Xi + εi","textChars":19,"textLines":1,"bbox":[42,260,520,80]}
+{"kind":"textbox","id":"sh/u98f2xwv","slide":8,"text":"β0, β1: tham số chưa biết\nεi: yếu tố khác chưa quan sát","textPreview":"β0, β1: tham số chưa biết | εi: yếu tố khác chưa quan sát","textChars":55,"textLines":2,"bbox":[42,370,520,100]}
+{"kind":"shape","id":"sh/5gjy1cvi","slide":8,"bbox":[650,190,588,350]}
+{"kind":"textbox","id":"sh/4fax87ex","slide":8,"text":"Tiêu chuẩn OLS","textPreview":"Tiêu chuẩn OLS","textChars":14,"textLines":1,"bbox":[690,230,480,42]}
+{"kind":"textbox","id":"sh/2d8zq583","slide":8,"text":"min  Σ ei²","textPreview":"min  Σ ei²","textChars":10,"textLines":1,"bbox":[690,315,480,90]}
+{"kind":"textbox","id":"sh/3eh0japo","slide":8,"text":"ei = Yi − Ŷi\nŶi = β̂0 + β̂1Xi","textPreview":"ei = Yi − Ŷi | Ŷi = β̂0 + β̂1Xi","textChars":29,"textLines":2,"bbox":[690,435,480,90]}
+{"kind":"textbox","id":"sh/ofq1sfq9","slide":8,"text":"Dấu mũ β̂ cho biết đây là giá trị ước lượng từ mẫu, không phải tham số thật β.","textPreview":"Dấu mũ β̂ cho biết đây là giá trị ước lượng từ mẫu, không phải tham số thật β.","textChars":78,"textLines":1,"bbox":[42,590,1080,42]}
+{"kind":"notes","id":"nt/6nyo55","slide":8,"text":"Nhóm dùng mô hình tuyến tính đơn với một biến giải thích là khoảng cách.\nOLS tìm hai hệ số sao cho tổng bình phương sai lệch giữa giá thực tế và giá dự báo là nhỏ nhất.\nCần phân biệt beta là tham số của tổng thể và beta mũ là ước lượng từ mẫu."}
+{"kind":"slide","id":"sl/agxu0p","slide":9,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":10}
+{"kind":"textbox","id":"sh/fylkbq58","slide":9,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/0zulkvmt","slide":9,"name":"slide-title","text":"Hệ số được tính từ độ lệch quanh trung bình, không chỉ bằng hàm SLOPE","textPreview":"Hệ số được tính từ độ lệch quanh trung bình, không chỉ bằng hàm SLOPE","textChars":69,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/103md0ne","slide":9,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/q9s3e14r","slide":9,"text":"Nguồn: data_clean_sample.csv • Trang 9","textPreview":"Nguồn: data_clean_sample.csv • Trang 9","textChars":38,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"textbox","id":"sh/ra1k765c","slide":9,"text":"1. Tính các đại lượng nền","textPreview":"1. Tính các đại lượng nền","textChars":25,"textLines":1,"bbox":[42,180,500,38]}
+{"kind":"textbox","id":"sh/sbulgbmh","slide":9,"text":"x̄ = 4.4271\nȳ = 1.9864\nSxx = 197.5166\nSxy = -28.7683","textPreview":"x̄ = 4.4271 | ȳ = 1.9864 | Sxx = 197.5166 | Sxy = -28.7683","textChars":52,"textLines":4,"bbox":[42,245,480,210]}
+{"kind":"shape","id":"sh/dw329gn2","slide":9,"bbox":[610,180,628,355]}
+{"kind":"textbox","id":"sh/i5s3a14f","slide":9,"text":"2. Tính hệ số","textPreview":"2. Tính hệ số","textChars":13,"textLines":1,"bbox":[650,220,480,38]}
+{"kind":"textbox","id":"sh/j61k3650","slide":9,"text":"β̂1 = Sxy / Sxx","textPreview":"β̂1 = Sxy / Sxx","textChars":15,"textLines":1,"bbox":[650,295,480,55]}
+{"kind":"textbox","id":"sh/fads7ex8","slide":9,"text":"= -28.7683 / 197.5166\n= -0.1457","textPreview":"= -28.7683 / 197.5166 | = -0.1457","textChars":31,"textLines":2,"bbox":[650,365,480,85]}
+{"kind":"textbox","id":"sh/e94by9w3","slide":9,"text":"β̂0 = ȳ − β̂1x̄ = 2.6313","textPreview":"β̂0 = ȳ − β̂1x̄ = 2.6313","textChars":24,"textLines":1,"bbox":[650,475,520,55]}
+{"kind":"textbox","id":"sh/1cva9ofe","slide":9,"text":"Phương trình mẫu: Ŷ = 2.631 − 0.146X","textPreview":"Phương trình mẫu: Ŷ = 2.631 − 0.146X","textChars":36,"textLines":1,"bbox":[42,590,1080,48]}
+{"kind":"notes","id":"nt/agxu0p","slide":9,"text":"Trong Excel, nhóm tạo riêng các cột x trừ x trung bình, y trừ y trung bình, tích hai độ lệch và bình phương độ lệch của x.\nTừ đó Sxy bằng -28.7683 và Sxx bằng 197.5166.\nChia Sxy cho Sxx được beta một mũ -0.1457; beta không mũ được tính từ trung bình."}
+{"kind":"slide","id":"sl/8al3jt","slide":10,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":4}
+{"kind":"textbox","id":"sh/ut4fq18f","slide":10,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/hwvylg76","slide":10,"name":"slide-title","text":"Phần dư cho phép ước lượng sai số và độ bất định của β̂1","textPreview":"Phần dư cho phép ước lượng sai số và độ bất định của β̂1","textChars":56,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/wvmhsbql","slide":10,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/7qtgfmp4","slide":10,"text":"Nguồn: data_clean_sample.csv • Trang 10","textPreview":"Nguồn: data_clean_sample.csv • Trang 10","textChars":39,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"textbox","id":"sh/9sbyhw7a","slide":10,"text":"SSE càng nhỏ so với SST, mô hình càng giải thích được nhiều biến thiên của giá.","textPreview":"SSE càng nhỏ so với SST, mô hình càng giải thích được nhiều biến thiên của giá.","textChars":79,"textLines":1,"bbox":[42,585,1100,48]}
+{"kind":"table","id":"tb/vu1kra5w","slide":10,"name":"","rows":6,"cols":4,"preview":"Đại lượng | Công thức | Kết quả | Ý nghĩa","bbox":[42,190,1196,350]}
+{"kind":"notes","id":"nt/8al3jt","slide":10,"text":"Sau khi có beta mũ, nhóm tính giá dự báo và phần dư cho từng dòng.\nTổng bình phương phần dư là 4.9590; chia cho n trừ 2 cho s bình phương bằng 0.0870.\nSai số chuẩn của beta một là 0.0210, dùng ở bước kiểm định tiếp theo."}
+{"kind":"slide","id":"sl/qsb6t1","slide":11,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":12}
+{"kind":"textbox","id":"sh/re1gzix4","slide":11,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/sfah8nyp","slide":11,"name":"slide-title","text":"Hệ số khoảng cách âm và có ý nghĩa thống kê ở mức 5%","textPreview":"Hệ số khoảng cách âm và có ý nghĩa thống kê ở mức 5%","textChars":52,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/dgjy1sfa","slide":11,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/ehszaxgv","slide":11,"text":"Nguồn: data_clean_sample.csv • Trang 11","textPreview":"Nguồn: data_clean_sample.csv • Trang 11","textChars":39,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"textbox","id":"sh/fi1g32xg","slide":11,"text":"H0: β1 = 0","textPreview":"H0: β1 = 0","textChars":10,"textLines":1,"bbox":[42,190,450,55]}
+{"kind":"textbox","id":"sh/0jahc7y1","slide":11,"text":"Khoảng cách không có quan hệ tuyến tính với giá.","textPreview":"Khoảng cách không có quan hệ tuyến tính với giá.","textChars":48,"textLines":1,"bbox":[42,255,500,75]}
+{"kind":"shape","id":"sh/1kjy5cf6","slide":11,"bbox":[42,380,360,190]}
+{"kind":"textbox","id":"sh/ulofydgr","slide":11,"text":"-6.940","textPreview":"-6.940","textChars":6,"textLines":1,"bbox":[66,420,312,65]}
+{"kind":"textbox","id":"sh/vmhgryxw","slide":11,"text":"t-statistic","textPreview":"t-statistic","textChars":11,"textLines":1,"bbox":[66,510,312,36]}
+{"kind":"shape","id":"sh/ba5w3qp0","slide":11,"bbox":[440,380,360,190]}
+{"kind":"textbox","id":"sh/a9wfal8v","slide":11,"text":"4.01e-9","textPreview":"4.01e-9","textChars":7,"textLines":1,"bbox":[464,420,312,65]}
+{"kind":"textbox","id":"sh/xcne5g76","slide":11,"text":"p-value","textPreview":"p-value","textChars":7,"textLines":1,"bbox":[464,510,312,36]}
+{"kind":"shape","id":"sh/cbexcbql","slide":11,"bbox":[838,380,360,190]}
+{"kind":"textbox","id":"sh/nmlwf6p4","slide":11,"text":"[-0.188; -0.104]","textPreview":"[-0.188; -0.104]","textChars":16,"textLines":1,"bbox":[862,420,312,65]}
+{"kind":"textbox","id":"sh/2lcf618j","slide":11,"text":"CI 95% của β1","textPreview":"CI 95% của β1","textChars":13,"textLines":1,"bbox":[862,510,312,36]}
+{"kind":"textbox","id":"sh/ponehg7a","slide":11,"text":"p-value < 0,05 và khoảng tin cậy không chứa 0 ⇒ bác bỏ H0.","textPreview":"p-value < 0,05 và khoảng tin cậy không chứa 0 ⇒ bác bỏ H0.","textChars":58,"textLines":1,"bbox":[42,605,1100,38]}
+{"kind":"notes","id":"nt/qsb6t1","slide":11,"text":"Thống kê t bằng -6.940 và p-value xấp xỉ 4.01e-9.\nVì p-value nhỏ hơn 0,05, nhóm bác bỏ giả thuyết hệ số bằng 0.\nKhoảng tin cậy 95 phần trăm của beta một từ -0.188 đến -0.104, hoàn toàn âm."}
+{"kind":"slide","id":"sl/h2kwwz","slide":12,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":7}
+{"kind":"textbox","id":"sh/5476tk3y","slide":12,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/ihwnipkn","slide":12,"name":"slide-title","text":"Xa thêm 1 km gắn với mức giảm trung bình khoảng 146 nghìn đồng/tháng","textPreview":"Xa thêm 1 km gắn với mức giảm trung bình khoảng 146 nghìn đồng/tháng","textChars":68,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/32p4rals","slide":12,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/s7y5oz2p","slide":12,"text":"Nguồn: data_clean_sample.csv • Trang 12","textPreview":"Nguồn: data_clean_sample.csv • Trang 12","textChars":39,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"textbox","id":"sh/q5gnmpkj","slide":12,"text":"Ŷ = 2.631 − 0.146X","textPreview":"Ŷ = 2.631 − 0.146X","textChars":18,"textLines":1,"bbox":[835,215,370,70]}
+{"kind":"textbox","id":"sh/r6povul4","slide":12,"text":"R² = 45.80%","textPreview":"R² = 45.80%","textChars":11,"textLines":1,"bbox":[835,340,340,55]}
+{"kind":"textbox","id":"sh/0bi5sz2l","slide":12,"text":"Khoảng cách giải thích 45,80% biến thiên giá trong mẫu trọ ngoài.","textPreview":"Khoảng cách giải thích 45,80% biến thiên giá trong mẫu trọ ngoài.","textChars":65,"textLines":1,"bbox":[835,420,360,110]}
+{"kind":"textbox","id":"sh/1cr61436","slide":12,"text":"Đây là mối liên hệ thống kê, chưa phải bằng chứng nhân quả.","textPreview":"Đây là mối liên hệ thống kê, chưa phải bằng chứng nhân quả.","textChars":59,"textLines":1,"bbox":[835,555,360,70]}
+{"kind":"chart","id":"ch/9wvexwze","slide":12,"name":"","chartType":"scatter","bbox":[42,175,750,450]}
+{"kind":"notes","id":"nt/h2kwwz","slide":12,"text":"Các chấm là giá thực tế, đường đỏ là giá dự báo theo OLS.\nHệ số góc -0.1457 nghĩa là xa thêm một km gắn với mức giảm trung bình khoảng 146 nghìn đồng mỗi tháng.\nR bình phương 45.80 phần trăm cho thấy khoảng cách giải thích một phần đáng kể nhưng không phải toàn bộ giá."}
+{"kind":"slide","id":"sl/tnfy0n","slide":13,"title":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textShapes":10}
+{"kind":"textbox","id":"sh/pgnuhkri","slide":13,"text":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textPreview":"MAS • HỒI QUY TUYẾN TÍNH ĐƠN","textChars":28,"textLines":1,"bbox":[42,30,520,30]}
+{"kind":"textbox","id":"sh/2dwv6ps7","slide":13,"name":"slide-title","text":"Ở khoảng cách 3 km, giá thuê dự báo trung bình là 2,194 triệu đồng/tháng","textPreview":"Ở khoảng cách 3 km, giá thuê dự báo trung bình là 2,194 triệu đồng/tháng","textChars":72,"textLines":1,"bbox":[42,68,1180,86]}
+{"kind":"shape","id":"sh/3e5cfu9c","slide":13,"bbox":[42,665,24,24]}
+{"kind":"textbox","id":"sh/cjedczq9","slide":13,"text":"Nguồn: data_clean_sample.csv • Trang 13","textPreview":"Nguồn: data_clean_sample.csv • Trang 13","textChars":39,"textLines":1,"bbox":[42,676,1196,22]}
+{"kind":"shape","id":"sh/dknul4ru","slide":13,"bbox":[42,190,560,360]}
+{"kind":"textbox","id":"sh/qhwvap83","slide":13,"text":"Dự báo điểm","textPreview":"Dự báo điểm","textChars":11,"textLines":1,"bbox":[82,230,450,40]}
+{"kind":"textbox","id":"sh/bi5cju9o","slide":13,"text":"Ŷ0 = β̂0 + β̂1X0\n= 2.6313 − 0.1457×3\n= 2.1943 triệu","textPreview":"Ŷ0 = β̂0 + β̂1X0 | = 2.6313 − 0.1457×3 | = 2.1943 triệu","textChars":51,"textLines":3,"bbox":[82,305,450,170]}
+{"kind":"textbox","id":"sh/snut0fap","slide":13,"text":"Khoảng tin cậy 95% cho giá trung bình","textPreview":"Khoảng tin cậy 95% cho giá trung bình","textChars":37,"textLines":1,"bbox":[670,210,500,70]}
+{"kind":"textbox","id":"sh/to3u90ra","slide":13,"text":"2.097 – 2.292 triệu","textPreview":"2.097 – 2.292 triệu","textChars":19,"textLines":1,"bbox":[670,300,500,65]}
+{"kind":"textbox","id":"sh/1ofu9sji","slide":13,"text":"Khoảng dự báo 95% cho một phòng cụ thể","textPreview":"Khoảng dự báo 95% cho một phòng cụ thể","textChars":38,"textLines":1,"bbox":[670,420,500,70]}
+{"kind":"textbox","id":"sh/gn6d0nix","slide":13,"text":"1.596 – 2.793 triệu","textPreview":"1.596 – 2.793 triệu","textChars":19,"textLines":1,"bbox":[670,510,500,65]}
+{"kind":"textbox","id":"sh/fmxc7i1c","slide":13,"text":"Khoảng dự báo cá thể rộng hơn vì còn bao gồm biến động riêng của từng phòng.","textPreview":"Khoảng dự báo cá thể rộng hơn vì còn bao gồm biến động riêng của từng phòng.","textChars":76,"textLines":1,"bbox":[42,605,1120,38]}
+{"kind":"notes","id":"nt/tnfy0n","slide":13,"text":"Ví dụ nhóm nhập X0 bằng 3 km trong Excel.\nDự báo điểm là 2.1943 triệu đồng một tháng.\nKhoảng tin cậy cho giá trung bình hẹp hơn khoảng dự báo cho một phòng cụ thể, vì phòng cụ thể còn chịu ảnh hưởng của nội thất, diện tích và các yếu tố khác."}
+{"kind":"slide","id":"sl/9na2k5","slide":14,"title":"KẾT LUẬN","textShapes":4}
+{"kind":"textbox","id":"sh/ixgfi90r","slide":14,"text":"KẾT LUẬN","textPreview":"KẾT LUẬN","textChars":8,"textLines":1,"bbox":[42,42,320,40]}
+{"kind":"textbox","id":"sh/50redozi","slide":14,"text":"Khoảng cách có quan hệ âm với giá thuê trọ ngoài KTX.","textPreview":"Khoảng cách có quan hệ âm với giá thuê trọ ngoài KTX.","textChars":53,"textLines":1,"bbox":[42,155,1080,180]}
+{"kind":"textbox","id":"sh/4zyxkjix","slide":14,"text":"−146 nghìn đồng/km • R² 45.80% • p 4.01e-9","textPreview":"−146 nghìn đồng/km • R² 45.80% • p 4.01e-9","textChars":42,"textLines":1,"bbox":[42,390,1000,70]}
+{"kind":"textbox","id":"sh/vupw7ehg","slide":14,"text":"Giới hạn: hồi quy quan sát đơn biến chưa kiểm soát diện tích, nội thất, dịch vụ và chất lượng khu vực.\nBước tiếp theo: mở rộng mẫu và thử hồi quy đa biến.","textPreview":"Giới hạn: hồi quy quan sát đơn biến chưa kiểm soát diện tích, nội thất, dịch vụ và chất lượng khu vực. | Bước tiếp theo: mở rộng mẫu và t...","textChars":154,"textLines":2,"bbox":[42,510,950,115]}
+{"kind":"shape","id":"sh/utgve90v","slide":14,"bbox":[1130,0,24,24]}
+{"kind":"notes","id":"nt/9na2k5","slide":14,"text":"Kết luận ngắn: trong 59 phòng trọ ngoài KTX, khoảng cách có quan hệ âm và có ý nghĩa thống kê với giá thuê.\nTuy nhiên đây là dữ liệu quan sát và mô hình chỉ có một biến nên chưa thể kết luận nhân quả.\nNếu có thêm thời gian, nhóm sẽ thu thập diện tích, nội thất và dịch vụ để xây mô hình đa biến.\nSau đó mời thầy đặt câu hỏi và mở Excel để chứng minh công thức khi cần."}

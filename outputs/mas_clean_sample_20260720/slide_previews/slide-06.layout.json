@@ -1,0 +1,1133 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ysk7m8",
+    "id": "ysk7m8",
+    "slide": 6,
+    "layoutId": "0e4050e4-07a7-4ea1-96ed-cdd6d5055e1b",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e4050e4-07a7-4ea1-96ed-cdd6d5055e1b",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e909a25a-bcaa-413e-87ff-78702b9823e4",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/natgvm1o",
+      "id": "1",
+      "bbox": [
+        42,
+        30,
+        520,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN",
+      "textPreview": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Helvetica Neue",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#3D8DFF",
+            "bold": true,
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#3D8DFF",
+              "bold": true,
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ob2x4ri9",
+      "id": "2",
+      "name": "slide-title",
+      "bbox": [
+        42,
+        68,
+        1180,
+        86
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "text": "Gộp KTX làm hệ số đổi dấu, nên mẫu hồi quy chỉ dùng 59 trọ ngoài",
+      "textPreview": "Gộp KTX làm hệ số đổi dấu, nên mẫu hồi quy chỉ dùng 59 trọ ngoài",
+      "resolvedFontSize": 37.22,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.93,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Gộp KTX làm hệ số đổi dấu, nên mẫu hồi quy chỉ dùng 59 trọ ngoài"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Gộp KTX làm hệ số đổi dấu, nên mẫu hồi quy chỉ dùng 59 trọ ngoài",
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "bold": true,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Gộp KTX làm hệ số đổi dấu, nên mẫu hồi quy chỉ dùng 59 trọ ngoài",
+              "fontSize": 40,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "bold": true,
+              "autoFit": "shrinkText",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cbyxcju",
+      "id": "3",
+      "bbox": [
+        42,
+        665,
+        24,
+        24
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "straightConnector1",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adkf6h0z",
+      "id": "4",
+      "bbox": [
+        42,
+        676,
+        1196,
+        22
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3"
+      },
+      "geometry": "rect",
+      "text": "Nguồn: data_clean_sample.csv • Trang 6",
+      "textPreview": "Nguồn: data_clean_sample.csv • Trang 6",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "Helvetica Neue",
+        "color": "#667085",
+        "alignment": "right",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Nguồn: data_clean_sample.csv • Trang 6"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Nguồn: data_clean_sample.csv • Trang 6",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Helvetica Neue",
+            "color": "#667085",
+            "alignment": "right",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Nguồn: data_clean_sample.csv • Trang 6",
+              "fontSize": 13,
+              "typeface": "Helvetica Neue",
+              "color": "#667085",
+              "alignment": "right",
+              "insets": {
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              }
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bedgzm1k",
+      "id": "5",
+      "bbox": [
+        42,
+        190,
+        550,
+        355
+      ],
+      "geometry": "rect",
+      "fillColor": "#FDECEC",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wzmx8ri5",
+      "id": "6",
+      "bbox": [
+        72,
+        225,
+        470,
+        44
+      ],
+      "geometry": "rect",
+      "text": "Gộp cả 76 quan sát",
+      "textPreview": "Gộp cả 76 quan sát",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Gộp cả 76 quan sát"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Gộp cả 76 quan sát",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Gộp cả 76 quan sát",
+              "fontSize": 28,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0vy1wjq",
+      "id": "7",
+      "bbox": [
+        72,
+        300,
+        470,
+        120
+      ],
+      "geometry": "rect",
+      "text": "β̂1 = +0.0565\nR² = 6.03%",
+      "textPreview": "β̂1 = +0.0565 | R² = 6.03%",
+      "resolvedFontSize": 37,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 37,
+        "typeface": "Helvetica Neue",
+        "color": "#C62828",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "β̂1 = +0.0565"
+          },
+          {
+            "index": 2,
+            "text": "R² = 6.03%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "β̂1 = +0.0565",
+          "resolvedTextStyle": {
+            "fontSize": 37,
+            "typeface": "Helvetica Neue",
+            "color": "#C62828",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "β̂1 = +0.0565",
+              "fontSize": 37,
+              "typeface": "Helvetica Neue",
+              "color": "#C62828",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "R² = 6.03%",
+          "resolvedTextStyle": {
+            "fontSize": 37,
+            "typeface": "Helvetica Neue",
+            "color": "#C62828",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R² = 6.03%",
+              "fontSize": 37,
+              "typeface": "Helvetica Neue",
+              "color": "#C62828",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh0fuxkv",
+      "id": "8",
+      "bbox": [
+        72,
+        445,
+        460,
+        80
+      ],
+      "geometry": "rect",
+      "text": "KTX rất gần trường nhưng giá do nhà trường quy định.",
+      "textPreview": "KTX rất gần trường nhưng giá do nhà trường quy định.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "KTX rất gần trường nhưng giá do nhà trường"
+          },
+          {
+            "index": 2,
+            "text": "quy định."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "KTX rất gần trường nhưng giá do nhà trường quy định.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "KTX rất gần trường nhưng giá do nhà trường quy định.",
+              "fontSize": 20,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ri9wn21g",
+      "id": "9",
+      "bbox": [
+        646,
+        190,
+        592,
+        355
+      ],
+      "geometry": "rect",
+      "fillColor": "#E9F7EC",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32lcb2ls",
+      "id": "10",
+      "bbox": [
+        678,
+        225,
+        510,
+        44
+      ],
+      "geometry": "rect",
+      "text": "Chỉ 59 trọ ngoài KTX",
+      "textPreview": "Chỉ 59 trọ ngoài KTX",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Chỉ 59 trọ ngoài KTX"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Chỉ 59 trọ ngoài KTX",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Chỉ 59 trọ ngoài KTX",
+              "fontSize": 28,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hcb2x4n",
+      "id": "11",
+      "bbox": [
+        678,
+        300,
+        510,
+        120
+      ],
+      "geometry": "rect",
+      "text": "β̂1 = -0.1457\nR² = 45.80%",
+      "textPreview": "β̂1 = -0.1457 | R² = 45.80%",
+      "resolvedFontSize": 37,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 37,
+        "typeface": "Helvetica Neue",
+        "color": "#238636",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "β̂1 = -0.1457"
+          },
+          {
+            "index": 2,
+            "text": "R² = 45.80%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "β̂1 = -0.1457",
+          "resolvedTextStyle": {
+            "fontSize": 37,
+            "typeface": "Helvetica Neue",
+            "color": "#238636",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "β̂1 = -0.1457",
+              "fontSize": 37,
+              "typeface": "Helvetica Neue",
+              "color": "#238636",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "R² = 45.80%",
+          "resolvedTextStyle": {
+            "fontSize": 37,
+            "typeface": "Helvetica Neue",
+            "color": "#238636",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R² = 45.80%",
+              "fontSize": 37,
+              "typeface": "Helvetica Neue",
+              "color": "#238636",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p43udc3y",
+      "id": "12",
+      "bbox": [
+        678,
+        445,
+        500,
+        80
+      ],
+      "geometry": "rect",
+      "text": "Mẫu phù hợp với câu hỏi về giá thuê thị trường.",
+      "textPreview": "Mẫu phù hợp với câu hỏi về giá thuê thị trường.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Mẫu phù hợp với câu hỏi về giá thuê thị trường."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Mẫu phù hợp với câu hỏi về giá thuê thị trường.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Mẫu phù hợp với câu hỏi về giá thuê thị trường.",
+              "fontSize": 20,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3ud47md",
+      "id": "13",
+      "bbox": [
+        42,
+        590,
+        1080,
+        40
+      ],
+      "geometry": "rect",
+      "text": "17 dòng KTX vẫn được giữ để mô tả — không bị xóa khỏi dữ liệu sạch.",
+      "textPreview": "17 dòng KTX vẫn được giữ để mô tả — không bị xóa khỏi dữ liệu sạch.",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Helvetica Neue",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "17 dòng KTX vẫn được giữ để mô tả — không bị xóa khỏi dữ liệu sạch."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "17 dòng KTX vẫn được giữ để mô tả — không bị xóa khỏi dữ liệu sạch.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "17 dòng KTX vẫn được giữ để mô tả — không bị xóa khỏi dữ liệu sạch.",
+              "fontSize": 21,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "baseUnit": 1,
+      "root": {
+        "path": "0",
+        "kind": "layers",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1238,
+          "height": 698
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "position": {
+              "left": 42,
+              "top": 30
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 520
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 30
+              }
+            },
+            "intrinsicSize": {
+              "width": 520,
+              "height": 30
+            },
+            "frame": {
+              "left": 42,
+              "top": 30,
+              "width": 520,
+              "height": 30
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 30,
+              "width": 520,
+              "height": 30
+            },
+            "children": [],
+            "text": "MAS • HỒI QUY TUYẾN TÍNH ĐƠN",
+            "transform": "none",
+            "element": {
+              "aid": "sh/natgvm1o",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "text",
+            "name": "slide-title",
+            "position": {
+              "left": 42,
+              "top": 68
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1180
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 86
+              }
+            },
+            "intrinsicSize": {
+              "width": 1180,
+              "height": 86
+            },
+            "frame": {
+              "left": 42,
+              "top": 68,
+              "width": 1180,
+              "height": 86
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 68,
+              "width": 1180,
+              "height": 86
+            },
+            "children": [],
+            "text": "Gộp KTX làm hệ số đổi dấu, nên mẫu hồi quy chỉ dùng 59 trọ ngoài",
+            "transform": "none",
+            "element": {
+              "aid": "sh/ob2x4ri9",
+              "id": "2",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "shape",
+            "position": {
+              "left": 42,
+              "top": 665
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 24
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 24
+              }
+            },
+            "intrinsicSize": {
+              "width": 24,
+              "height": 24
+            },
+            "frame": {
+              "left": 42,
+              "top": 665,
+              "width": 24,
+              "height": 24
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 665,
+              "width": 24,
+              "height": 24
+            },
+            "children": [],
+            "geometry": "straightConnector1",
+            "element": {
+              "aid": "sh/9cbyxcju",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "text",
+            "position": {
+              "left": 42,
+              "top": 676
+            },
+            "requestedSize": {
+              "width": {
+                "mode": "fixed",
+                "value": 1196
+              },
+              "height": {
+                "mode": "fixed",
+                "value": 22
+              }
+            },
+            "intrinsicSize": {
+              "width": 1196,
+              "height": 22
+            },
+            "frame": {
+              "left": 42,
+              "top": 676,
+              "width": 1196,
+              "height": 22
+            },
+            "snappedFrame": {
+              "left": 42,
+              "top": 676,
+              "width": 1196,
+              "height": 22
+            },
+            "children": [],
+            "text": "Nguồn: data_clean_sample.csv • Trang 6",
+            "transform": "none",
+            "element": {
+              "aid": "sh/adkf6h0z",
+              "id": "4",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "alignItems": "stretch",
+        "justifyItems": "stretch",
+        "contentFrame": {
+          "left": 0,
+          "top": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 42,
+              "top": 30,
+              "width": 520,
+              "height": 30
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 42,
+              "top": 68,
+              "width": 1180,
+              "height": 86
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 42,
+              "top": 665,
+              "width": 24,
+              "height": 24
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 42,
+              "top": 676,
+              "width": 1196,
+              "height": 22
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
